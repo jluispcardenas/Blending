@@ -1,0 +1,4 @@
+Blending
+========
+
+Ejemplo blending PHP
