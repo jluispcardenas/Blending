@@ -1,4 +1,4 @@
 Blending
 ========
 
-Ejemplo blending PHP + GD
+Blending example on PHP + GD
